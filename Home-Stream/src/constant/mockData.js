@@ -35,93 +35,93 @@ export const STREAM_DEVICES = [
     device_name: "Smartphone",
     icon: Icons.SmartphoneRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "HomeStream is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
   },
   {
     id: "stream_dev_2",
     device_name: "Tablet",
     icon: Icons.TabletRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "HomeStream is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
   },
   {
     id: "stream_dev_3",
     device_name: "Smart TV",
     icon: Icons.SmartTVRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "HomeStream is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
   },
   {
     id: "stream_dev_4",
     device_name: "Laptops",
     icon: Icons.LaptopRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "HomeStream is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
   },
   {
     id: "stream_dev_5",
     device_name: "Gaming Console",
     icon: Icons.ConsoleRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "HomeStream is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
   },
   {
     id: "stream_dev_6",
     device_name: "VR Headsets ",
     icon: Icons.VRSetsRed,
     description:
-      "StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
+      "HomeStream is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store",
   },
 ];
 
 export const FAQS = [
   {
     id: "faq_1",
-    question: "What is StreamVibe?",
+    question: "What is HomeStream?",
     answer:
-      "StreamVibe is a streaming service that allows you to watch movies and shows on demand.",
+      "HomeStream is a streaming service that allows you to watch movies and shows on demand.",
   },
   {
     id: "faq_2",
-    question: "How much does StreamVibe cost?",
+    question: "How much does HomeStream cost?",
     answer:
-      "StreamVibe is free of cost for first 1 month. Then you can take our yearly subscription which cost only 200$ per annum. There is super premium service that allow upto 5 different users costing only 359$.",
+      "HomeStream is free of cost for first 1 month. Then you can take our yearly subscription which cost only 200$ per annum. There is super premium service that allow upto 5 different users costing only 359$.",
   },
   {
     id: "faq_3",
-    question: "What content is available on StreamVibe?",
+    question: "What content is available on HomeStream?",
     answer:
-      "StreamVibe is a streaming service where you can watch all genres of TV shows from bollywood to hollywood at the minium cost. Our massive collection of streaming services expected to meet your taste of shows",
+      "HomeStream is a streaming service where you can watch all genres of TV shows from bollywood to hollywood at the minium cost. Our massive collection of streaming services expected to meet your taste of shows",
   },
   {
     id: "faq_4",
-    question: "How can I watch StreamVibe?",
+    question: "How can I watch HomeStream?",
     answer:
-      "StreamVibe can be watched using all the devices from smartphones to the full HD TV or screen. Simply login with your StreamVibe ID & password & there you go you've the full fledge access of your streaming services.",
+      "HomeStream can be watched using all the devices from smartphones to the full HD TV or screen. Simply login with your StreamVibe ID & password & there you go you've the full fledge access of your streaming services.",
   },
   {
     id: "faq_5",
-    question: "How do I sign up for StreamVibe?",
+    question: "How do I sign up for HomeStream?",
     answer:
-      "StreamVibe is very easy in terms of signing up procedure. You can simply full in the forms of our contact us page and our customer care will contact within 3 business day.",
+      "HomeStream is very easy in terms of signing up procedure. You can simply full in the forms of our contact us page and our customer care will contact within 3 business day.",
   },
   {
     id: "faq_6",
-    question: "What is the StreamVibe free trial?",
+    question: "What is the HomeStream free trial?",
     answer:
-      "StreamVibe free trial service is available for only 1 month. After that you can try our premium service as per your choice.",
+      "HomeStream free trial service is available for only 1 month. After that you can try our premium service as per your choice.",
   },
   {
     id: "faq_7",
-    question: "How do I contact StreamVibe customer support?",
+    question: "How do I contact HomeStream customer support?",
     answer:
-      "StreamVibe provides you 24/7 customer care & services. You can email us in the stream@customer.gmail.com or sv@support.gmail.com. You can chat online using the following link: www.streamvibe.com/inquiry/akdfQEF4",
+      "HomeStream provides you 24/7 customer care & services. You can email us in the stream@customer.gmail.com or sv@support.gmail.com. You can chat online using the following link: www.streamvibe.com/inquiry/akdfQEF4",
   },
   {
     id: "faq_8",
-    question: "What are the StreamVibe payment methods?",
+    question: "What are the HomeStream payment methods?",
     answer:
-      "StreamVibe is a global streaming service so, we have the avilability of different types of payment method like master card, visa card, paypal, american express & other additional card payments which is fully explained in our about us page of this site.",
+      "HomeStream is a global streaming service so, we have the avilability of different types of payment method like master card, visa card, paypal, american express & other additional card payments which is fully explained in our about us page of this site.",
   },
 ];
 
